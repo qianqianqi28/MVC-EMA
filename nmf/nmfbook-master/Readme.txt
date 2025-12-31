@@ -1,0 +1,1 @@
+Codes FGMqpnonnegforeachcolumnW and maxvolEMA is based on https://gitlab.com/ngillis/nmfbook/.
