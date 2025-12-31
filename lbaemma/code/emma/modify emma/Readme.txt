@@ -1,0 +1,1 @@
+RECAauto.R modifies RECA.R to avoid the input of the parameters q, c1, i, c5.
