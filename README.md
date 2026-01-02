@@ -3,8 +3,8 @@ This project is for Unmixing highly mixed grain size distribution data via maxim
 
 ## Configuration instructions
 The project structure distinguishes two kinds of folders:
-- lbaemma folder includes R code.
-- nmf folder includes MATLAB code.
+- lbaemma folder includes R code for EMMA.
+- nmf folder includes MATLAB code for APFGM and the results from EMMA and APFGM.
 
 ## Installation instructions
 - library(renv) init() is used to obtain renv.lock file. By looking at this file: This code is run by R version 4.2.3.
