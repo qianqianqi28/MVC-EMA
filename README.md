@@ -13,5 +13,8 @@ The project structure distinguishes two kinds of folders:
 ## Operating instructions
 Please see Readme file in lbaemma folder and nmf folder.
 
+## Paper
+Qi, Q., Chen, Z., & Van der Heijden, P. G. M. (2026). Unmixing highly mixed grain size distribution data via maximum volume constrained end member analysis. arXiv preprint arXiv: 2601.00154.
+
 ## License
 This project is licensed under the terms of the LICENSE GNU General Public License v3.0.
